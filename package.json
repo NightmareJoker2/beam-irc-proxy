@@ -27,10 +27,11 @@
   },
   "homepage": "https://github.com/NightmareJoker2/beam-irc-proxy#readme",
   "dependencies": {
-    "beam-client-node": "^1.0.2",
+    "beam-client-node": "^1.0.3",
     "carina": "^0.10.0",
     "ircdjs": "0.0.17",
     "logger": "0.0.1",
+    "matcher": "^1.0.0",
     "sprintf": "^0.1.5",
     "ws": "^3.3.3"
   }
